@@ -1,1 +1,27 @@
 //Write your function calls below this line
+setColor(0, 0, "white")
+setColor(0, 1, "blue")
+setColor(0, 2, "white")
+setColor(0, 3, "blue")
+setColor(0, 4, "white")
+setColor(0, 5, "blue")
+setColor(0, 6, "white")
+setColor(0, 7, "white")
+setColor(0, 8, "white")
+setColor(0, 9, "white")
+
+
+
+setColor(1, 0, "blue")
+setColor(1, 2, "blue")
+setColor(1, 0, "blue")
+setColor(1, 4, "blue")
+setColor(1, 0, "blue")
+setColor(1, 6, "red")
+setColor(1, 7, "red")
+setColor(1, 8, "red")
+setColor(1, 9, "red")
+setColor(2, 1, "blue")
+setColor(1, 0, "blue")
+setColor(1, 0, "blue")
+setColor(1, 0, "blue")
